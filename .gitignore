@@ -8,6 +8,7 @@ rust/
 !.gitignore
 !.bashrc
 !.alias.bash
+!.bash_profile
 /pprof
 
 /go/
